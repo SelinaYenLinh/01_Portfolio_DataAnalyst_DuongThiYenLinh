@@ -50,12 +50,3 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Stack:** pandas, scikit-learn, plotly, matplotlib, seaborn, yaml  
 **Screenshots:**  
 ![Segments (KMeans)](Assets/Borrower_Segments_Based_on_Monthly_Income_and_Loan_Amount.png)
-
-### [Nghiệm Kho + GPS — Excel/VBA Automation](https://github.com/SelinaYenLinh/Warehouse-Management.git)
-
-**Goal**: Automate warehouse auditing and GPS tracking for internal transportation operations.
-**Features**: Audit Log, Machine_ID validation, GPS log import, Google Apps Script sync, animated Excel UI.  
-**Results** : Reduced manual audit time by ~40%, improved data accuracy & traceability.  
-**Stack**: Excel VBA, Google Apps Script, Power Query, JSON API  
-
-![After Load File](Assets/AfterLoadFile.jpg)
