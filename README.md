@@ -50,3 +50,13 @@ Entry‑level Data Analyst with a forecasting background. Hands‑on with SQL, P
 **Stack:** pandas, scikit-learn, plotly, matplotlib, seaborn, yaml  
 **Screenshots:**  
 ![Segments (KMeans)](Assets/Borrower_Segments_Based_on_Monthly_Income_and_Loan_Amount.png)
+
+### [VBA — Truck Journey Tracking System](https://github.com/SelinaYenLinh/23_Project_WarehouseManagement.git)
+
+**Goal:** Automate and visualize the truck journey from factory to port, including GPS evidence and timestamps.
+**Data:** Arrival/departure times, travel distance, GPS images, container drop-off.
+**Features:** Automated data entry, journey tracking, standardized reporting, GPS image attachment.
+**Impact:** Faster reconciliation, improved transparency, reduced disputes.
+**Stack:** Excel VBA, GPS image integration, automated reporting.
+**Role:** Analyzed requirements, designed data structure, developed VBA automation, implemented reporting workflow.
+
